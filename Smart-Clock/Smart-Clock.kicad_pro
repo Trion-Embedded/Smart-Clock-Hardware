@@ -377,10 +377,10 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -471,6 +471,10 @@
     [
       "e34c15c6-e607-4cb4-85cc-7ea553cda6e2",
       ""
+    ],
+    [
+      "6f475c16-c3a3-4780-a754-5a189c003322",
+      "USB - UART"
     ]
   ],
   "text_variables": {}
