@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Smart Clock Hardware")
+    (date "2023-07-11")
+    (rev "v0.1")
+    (company "Trion Embedded")
+    (comment 1 "Design by: Emirhan Yuksel ")
+    (comment 2 "Revised by: Bahtiyar Bayram")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
