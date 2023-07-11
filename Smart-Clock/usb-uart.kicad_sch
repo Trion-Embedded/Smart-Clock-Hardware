@@ -9,7 +9,7 @@
     (date "2023-07-11")
     (rev "v0.1")
     (company "Trion Embedded")
-    (comment 1 "Design by: Bahtiyar Bayram")
+    (comment 1 "Bahtiyar Bayram")
   )
 
   (lib_symbols
